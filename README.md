@@ -1,7 +1,7 @@
 # NIH AI Workshop1: Generating Molecular Features for Drug Function Classification
 **S.Ravichandran**
 
-Click **predict-drugclass.ipynb** to see a static Python JupyterNotebook.
+Click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
 
 
 Click Binder link below to begin tutorial using the dynamic version of **predict-drugclass.ipynb**. 
