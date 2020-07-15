@@ -1,6 +1,8 @@
 # NCI Data Science Learning Exchange webinar: 
 ## *Generating Molecular Features for Drug Function Classification*
-*Presented by S. Ravichandran, Ph.D., Bioinformaticist, Frederick National Laboratory for Cancer Research (FNLCR)*
+<div class="text-blue mb-2">
+  *Presented by S. Ravichandran, Ph.D., Bioinformaticist, Frederick National Laboratory for Cancer Research (FNLCR)*
+</div>
 
 To begin: 
 
