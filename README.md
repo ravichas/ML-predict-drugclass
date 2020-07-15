@@ -1,6 +1,6 @@
 # NCI Data Science Learning Exchange webinar: 
 ## *Generating Molecular Features for Drug Function Classification*
-**Preseneted by S.Ravichandran, Ph.D., Bioinformaticist, FNL**
+**Presented by S.Ravichandran, Ph.D., Bioinformaticist, FNL**
 
 Click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
 
