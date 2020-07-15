@@ -1,5 +1,5 @@
 # NCI Data Science Learning Exchange webinar: 
-## *<span style="color:blue">Generating Molecular Features for Drug Function Classification*</span>
+## Generating Molecular Features for Drug Function Classification
 **Presented by S. Ravichandran, Ph.D., Bioinformaticist, Frederick National Laboratory for Cancer Research (FNLCR)**
 
 Click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
